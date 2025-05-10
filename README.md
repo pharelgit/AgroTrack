@@ -161,6 +161,12 @@ php artisan serve
 Le projet sera accessible sur `http://127.0.0.1:8000`.
 
 ---
+## Captures
+![interface administrateur](image-1.png)
+![interface agriculteur](image.png)
+![Localisation des parcelles](image-2.png)
+![listes des interventions](image-3.png)
+
 
 ## Contribuer
 
